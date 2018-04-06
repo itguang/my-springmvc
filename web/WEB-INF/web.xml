@@ -10,7 +10,7 @@
             <description>配置要扫描包及其子包, 如果有多个包,以逗号分隔</description>
             <param-name>basePackage</param-name>
             <param-value>controller</param-value>
-            <!-- <param-value>me.gacl.web.controller</param-value> -->
+
         </init-param>
         <load-on-startup>1</load-on-startup>
     </servlet>
