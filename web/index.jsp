@@ -11,6 +11,6 @@
     <title>$Title$</title>
   </head>
   <body>
-  $END$
+  <label style="color: red;">${msg}</label>
   </body>
 </html>
